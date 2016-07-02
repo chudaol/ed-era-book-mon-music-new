@@ -1,6 +1,6 @@
 {
     "gitbook": ">=3.0.0-pre.11",
-    "title": "EdEra Mon Math",
+    "title": "Музичне мистецтво",
     "plugins": ["-search", "fontsettings", "sharing", "addcssjs", "quiz", "mathjax", "-comments"],
     "pluginsConfig": {
         "theme-default": {
@@ -38,7 +38,7 @@
         }
     },
     "variables": {
-      "basePath": "http://readmon24.ed-era.com/"
+      "basePath": "http://mathmon14-new.ed-era.com/"
     },
     "links": {
         "gitbook": false,

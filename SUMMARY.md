@@ -1,6 +1,7 @@
 ### Вступ
 
 * [Вступна частина](README.md)
+* [Опис ключових змін  до проекту оновленої  програми](opus_zmyn.md)
 * [Зміст програми](zmist.md)
 * [Пояснювальна записка](poyasnyuvalna_zapyska.md)
 * [Характеристика структури навчальної програми](kharakterystyka_struktury_navchalnoyi_prohramy.md)
