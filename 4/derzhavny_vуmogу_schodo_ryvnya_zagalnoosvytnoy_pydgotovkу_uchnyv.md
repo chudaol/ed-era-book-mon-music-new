@@ -42,7 +42,7 @@
 <tr>
     <td style="vertical-align:top !important;">
 <i>вміє:</i></td>
-<td style="vertical-align:top !important;"><li>оцінювати спів власний  та однокласників;</li></td>
+<td style="vertical-align:top !important;"><li>оцінювати спів власний та однокласників;</li></td>
 </tr>
 <tr>
 <td style="vertical-align:top !important;">
@@ -56,7 +56,7 @@
 </tr>
 <tr>
 <td style="vertical-align:top !important;">
-<i>дотримується  правил:</i><br></td>
+<i>дотримується правил:</i><br></td>
 <td><li>поведінки у класі, на концерті, в театрі;</li>
 <li>слухання музики, співу.</li></td>
 </tr>
