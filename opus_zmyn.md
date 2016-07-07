@@ -2,6 +2,15 @@
 
 # Опис ключових змін  до проекту оновленої  програми  з з музичного мистецтва
 
+<table width="100%" border="0" bordercolor="0" cellpadding="0" cellspacing="0">
+  <tr border="0" bordercolor="0">
+    <td border="0" bordercolor="0"><div valign="bottom"><img class="image" src="2.jpg" style="width: 220px; height: auto;"></div></td>
+    <td valign="bottom" border="0" bordercolor="0"><b>Кастьорна Ольга Миколаївна</b>
+    <br>
+<i>Вчитель музики та хору, модератор з музичного мистецтва</i></td>
+  </tr>
+</table>
+
 З метою розвантаження навчальних програм з <b>музичного мистецтва 1-4 класів загальноосвітніх шкіл, нами були вилучені</b>:
 
 <p align="center"><b>1 клас</b></p>
