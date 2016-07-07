@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Опис ключових змін  до проекту оновленої  програми  з з музичного мистецтва
+# Опис ключових змін  до проекту оновленої  програми  з музичного мистецтва
 
 <table width="100%" border="0" bordercolor="0" cellpadding="0" cellspacing="0">
   <tr border="0" bordercolor="0">
