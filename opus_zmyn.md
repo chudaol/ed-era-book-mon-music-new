@@ -21,7 +21,7 @@
   </tr>
     <tr>
     <td width="50%" style="vertical-align:top !important;">
-Основний матеріал для сприймання</td>
+Орієнтовний матеріал для сприймання</td>
     <td width="50%" style="vertical-align:top !important;">
 Д.Кабалевський. «Кавалерійська».</td>
   </tr>
@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td width="50%" style="vertical-align:top !important;">
-Основний матеріал для  виконання</td>
+Орієнтовний матеріал для  виконання</td>
     <td width="50%" style="vertical-align:top !important;">
 Д.Кабалевський. «Перший клас»;<br>
 Б.Фільц. «Облітав журавель» (одноголосно); А.Філіпенко. «На місточку»;<br>
@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td width="50%" style="vertical-align:top !important;">
-Основний матеріал для сприймання<br>
+Орієнтовний матеріал для сприймання<br>
 </td>
     <td width="50%" style="vertical-align:top !important;">
 М.Блантер. «Футбольний марш»;<br>
@@ -80,7 +80,7 @@
   </tr>
   <tr>
     <td width="50%" style="vertical-align:top !important;">
-Основний матеріал для виконання</td>
+Орієнтовний матеріал для виконання</td>
     <td width="50%" style="vertical-align:top !important;">
 В.Д.Кабалевський. «Пісня про школу».</td>
   </tr>
@@ -150,7 +150,7 @@
   </tr>
     <tr>
     <td width="50%" style="vertical-align:top !important;">
-Основний матеріал для виконання</td>
+Орієнтовний матеріал для виконання</td>
     <td width="50%" style="vertical-align:top !important;">
 К.М’ясков.  «Зимонька»;<br>
 «А ми просо сіяли»; О.Янушкевич;<br>
@@ -196,7 +196,7 @@
   </tr>
     <tr>
     <td width="50%" style="vertical-align:top !important;">
-Основний матеріал для сприймання</td>
+Орієнтовний матеріал для сприймання</td>
     <td width="50%" style="vertical-align:top !important;">
 Невідомий автор  першої половини ХІХ ст. Симфонія (козачок).</td>
   </tr>
@@ -226,7 +226,7 @@
   </tr>
     <tr>
     <td width="50%" style="vertical-align:top !important;">
-Основний матеріал для виконання</td>
+Орієнтовний матеріал для виконання</td>
     <td width="50%" style="vertical-align:top !important;">
 Д. Кабалевський. «Хто чергові?».</td>
   </tr>
@@ -244,7 +244,7 @@
   </tr>
     <tr>
     <td width="50%" style="vertical-align:top !important;">
-Основний матеріал для сприймання</td>
+Орієнтовний матеріал для сприймання</td>
     <td width="50%" style="vertical-align:top !important;">
 О.Пахмутова. «Прохання»;<br>
 І.Дунаєвський. Увертюра до к/ф «Діти капітана Гранта».</td>
@@ -272,7 +272,7 @@
   </tr>
     <tr>
     <td width="50%" style="vertical-align:top !important;">
-Основний матеріал для сприймання</td>
+Орієнтовний матеріал для сприймання</td>
     <td width="50%" style="vertical-align:top !important;">
 М. Калачевський. «Українська симфонія» (І ч.);<br>
 Ж.Колодуб. «Троїсті музики»; Г. Майборода. «Гуцульська рапсодія».</td>

@@ -1,60 +1,53 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Державні вимоги  щодо рівня загальноосвітньої підготовки учнів
+# Державні вимоги до навчальних досягнень учня/учениці
 
 <table>
 <tbody>
   <tr>
     <td style="vertical-align:top !important;">
-<i>Учень має уявлення про:</i><br></td>
-<td><li>одночастинну будову твору;</li>
-<li>зв’язок зміни частин зі зміною характеру і змісту твору;</li>
-<li>дво- і тричастинну форми;</li>
-<li>рондо і варіації;</li>
-<li>куплетну форму;</li>
-<li>найважливіші принципи будови музики;</li>
+<i>Учень/учениця має уявлення про:</i><br></td>
+<td>музичну форму, контраст.<br>
+рондо і варіації;<br>
+куплетну форму;
 </td>
 </tr>
 <tr>
     <td style="vertical-align:top !important;">
 <i>називає:</i><br></td>
-<td><li>музичні твори, що звучали у  класі, та їх авторів;</li></td>
-</tr>
-<tr>
-<td style="vertical-align:top !important;">
-<i>порівнює:</i><br></td>
-<td><li>твори різної форми;</li></td>
+<td>музичні твори, що звучали у  класі, та їх авторів/авторок;</td>
 </tr>
 <tr>
     <td style="vertical-align:top !important;">
 <i>обґрунтовує:</i><br></td>
-<td><li>форму музичного твору;</li></td>
+<td>форму музичного твору;</td>
 </tr>
 <tr>    
     <td style="vertical-align:top !important;">
 <i>висловлює:</i><br></td>
-<td><li>власне ставлення до змісту музичних творів;</li></td>
+<td>власне ставлення до змісту музичних творів;</td>
 </tr>
 <tr>
     <td style="vertical-align:top !important;">
 <i>вміє:</i><br></td>
-<td><li>оцінювати спів власний  та однокласників;</li></td>
+<td>оцінювати спів власний  та однокласників/однокласниць;</td>
 </tr>
 <tr>
     <td style="vertical-align:top !important;">
 <i>виразно виконує:</i></td>
-<td style="vertical-align:top !important;"><li>пісні, дотримуючись основних правил співу;</li></td>
+<td style="vertical-align:top !important;">пісні, дотримуючись основних правил співу;</td>
 </tr>
 <tr>
 <td style="vertical-align:top !important;">
 <i>користується:</i><br></td>
-<td style="vertical-align:top !important;"><li>музичною термінологією (у межах програмового матеріалу);</li></td>
+<td style="vertical-align:top !important;">музичною термінологією (у межах програмового матеріалу);</td>
 </tr>
 <tr>
 <td style="vertical-align:top !important;">
 <i>дотримується  правил:</i><br></td>
-<td style="vertical-align:top !important;"><li>поведінки у класі, на концерті, в театрі;</li>
-<li>слухання музики, співу.</li></td>
+<td style="vertical-align:top !important;">поведінки у класі, на концерті, в театрі;<br>
+слухання музики, співу.
+</td>
 </tr>
 </tbody>
 </table>
